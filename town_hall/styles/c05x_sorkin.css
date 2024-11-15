@@ -10,3 +10,15 @@ body {
 	font-align: center;
 	font-size: 185%;
 }
+header h1 {
+	color: blue ;
+}
+header h2 {
+	color: black;
+}
+main {
+	padding: 20px
+}
+h1 {
+	font-size: 150%;
+}
