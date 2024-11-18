@@ -13,14 +13,8 @@ body {
     border: 10px double blue;
 	background-color: white;
 }
-header h1 {
-	color: blue ;
-}
-header h2 {
-	color: black;
-}
 main {
-	padding: 1.5 em;
+	padding: 1.5em;
 }
 h1 {
 	font-size: 150%;
