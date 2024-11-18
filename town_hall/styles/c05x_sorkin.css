@@ -20,34 +20,49 @@ header h2 {
 	color: black;
 }
 main {
-	padding: 20px
+	padding: 1.5 em;
 }
 h1 {
 	font-size: 150%;
-	color: black;
+	color: blue;
+	margin: 0;
+	padding-bottom: .5em;
 }
 h2 {
 	font-size: 125%;
-	color:black;
+	padding-bottom: .25em;
+	padding-top: .5em;
 }
-P, blocknote, ul, li {
-	margin-top: 10px;
-	margin-bottom: 10px;
+h3 {
+	padding-top: 0;
+	padding-bottom: .25em;
+}
+Blockquote {
+	padding-bottom: .25em;
 }
 cite {
 	color: blue;
 	font-style: normal;
 }
-cite {
-	 text-align: right;
-	margin-bottom: 0.75em;
+ul {
+	margin-left: 1.25em;
 }
-img {
-	float: left;
-	margin-bottom: 10px;
+li { 
+	padding-bottom: .35em;
+}
+.cite {
+	text-align: right;
+	padding-bottom: .75em;
 }
 footer {
 	border-top: 4px solid blue;
 	padding-top: 10px;
 	text-align: center;
+}
+footer p{
+	font-size: 90%;
+	font-weight: bold;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .25em;
 }
