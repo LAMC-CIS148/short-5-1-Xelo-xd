@@ -1,4 +1,4 @@
-* {
+*{
 	margin: 0;
 	padding: 0;
 }
@@ -30,6 +30,10 @@ h2 {
 h3 {
 	padding-top: 0;
 	padding-bottom: .25em;
+}
+img{
+	float: left;
+	margin: .5em 1em .5em 0;
 }
 Blockquote {
 	padding-bottom: .25em;
