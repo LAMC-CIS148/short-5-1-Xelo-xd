@@ -35,6 +35,9 @@ img{
 	float: left;
 	margin: .5em 1em .5em 0;
 }
+p{
+	padding-bottom: .5em;	
+}
 Blockquote {
 	padding-bottom: .25em;
 }
